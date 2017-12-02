@@ -16,6 +16,8 @@ this a simple web project this can be deployed on any webserver
 
 ## How to contribute
 
+Please fork this reposisotrty adnb issue pull request
+
 ## Copyright
 
 this is now copyrighted to me!!!
