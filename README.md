@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples for git training
 this a simple web project this can be deployed on any webserver
 
 ## How to contribute
+
+## Copyright
+
+this is now copyrighted to me!!!
