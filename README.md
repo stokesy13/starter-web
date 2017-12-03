@@ -22,4 +22,4 @@ Please fork this reposisotrty adnb issue pull request
 
 ## Copyright
 
-this is now copyrighted to me!!!
+this is now copyrighted to me!!! All rights reserved
